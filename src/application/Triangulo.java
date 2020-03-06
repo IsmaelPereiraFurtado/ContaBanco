@@ -37,7 +37,7 @@ public class Triangulo {
 			}else {
 			System.out.println("A area maior é (X)");
 			}
-		
+		System.out.println("Ismael é lindo");
 		sc.close();
 	}
 	
